@@ -1,0 +1,22 @@
+{
+  "name": "night-console-input",
+  "version": "1.0.0",
+  "description": "A easy modules that help you to use console input (the module is a remake of a not working module)",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "NightSpaceGTT",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NightSpaceGTT/NightConsoleInput.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NightSpaceGTT/NightConsoleInput/issues"
+  },
+  "homepage": "https://github.com/NightSpaceGTT/NightConsoleInput#readme"
+}
+  
