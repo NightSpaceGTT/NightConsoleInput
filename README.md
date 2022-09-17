@@ -1,6 +1,6 @@
 # **Night-Console-Input**
- - If you like the project drop a star and fork it !
- - Night-Console-Input is a npm package hete input prompt for the console.
+ - If you like the project you can drop a star and fork it !
+ - Night-Console-Input is a npm package here to help you to do console input.
  - **Night-Console-Input is based on a not working module**
 
 ## **Installation**
