@@ -14,7 +14,7 @@ npm install night-console-input --save
 **At first** you **have to** import the module **exemple:**
 
 ```js
-let input = require('night-console-input');
+let { input } = require('night-console-input');
 ```
 
 after you can ask what you want
