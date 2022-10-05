@@ -1,4 +1,5 @@
 # **Night-Console-Input**
+[![1](https://github-readme-stats.vercel.app/api/pin/?username=NightSpaceGTT&repo=NightConsoleInput&theme=synthwave&show_owner)](https://github.com/NightSpaceGTT/NightConsoleInput)
  - If you like the project drop a star and fork it !
  - Night-Console-Input is a npm package hete input prompt for the console.
  - **Night-Console-Input is based on a not working module**
