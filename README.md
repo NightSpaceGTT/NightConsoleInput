@@ -1,6 +1,6 @@
 # **Night-Console-Input**
- - If you like the project you can drop a star and fork it !
- - Night-Console-Input is a npm package here to help you to do console input.
+ - If you like the project drop a star and fork it !
+ - Night-Console-Input is a npm package hete input prompt for the console.
  - **Night-Console-Input is based on a not working module**
 
 ## **Installation**
@@ -15,18 +15,33 @@ npm install night-console-input --save
 
 ```js
 let { input } = require('night-console-input');
+
+or 
+
+let NightInput = require('night-console-input');
 ```
 
 after you can ask what you want
 
 ```js
+let { input } = require('night-console-input');
+
 const key = input('Enter your api key: ');
 
 console.log(`Your key is: ${key}`);
+
+let NightInput = require('night-console-input');
+
+const key = NightInput.input('Enter your api key: ');
+
+console.log(`Your key is: ${key}`);
+
 ```
 or
 ```js
-const name = input('Enter your name: ');
+let NightInput = require('night-console-input');
+
+const name = NightInput.input('Enter your name: ');
 
 console.log(`hello, ${name}`);
 ```
